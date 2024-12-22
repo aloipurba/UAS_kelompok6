@@ -18,5 +18,3 @@ void displayBooks() {
     printf("--------------------------------------------------------------------------------------------\n");
 }
 
-
-//kalau ada yg salah, konfirm biar diganti ges :)
