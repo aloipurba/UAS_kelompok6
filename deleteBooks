@@ -20,3 +20,7 @@ void deleteBook() {
             break;
         }
     }
+        if (!found) {
+            printf("Buku dengan judul '%s' tidak ditemukan.\n", target_title);
+            }
+}
