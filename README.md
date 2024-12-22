@@ -1,4 +1,4 @@
-Program Manajemen Buku Perpustakaan ini memiliki fitur-fitur berikut:  
+Program Manajemen Buku Perpustakaan ini memiliki fitur fitur berikut:  
 
 Untuk Peminjam Buku:
 1. Daftar Anggota Baru: Mendaftarkan anggota baru dengan detail informasi seperti ID, nama, alamat, dan nomor telepon.  
@@ -16,5 +16,5 @@ Untuk Pegawai Perpustakaan:
 6. Cari Anggota: Mencari anggota berdasarkan nama dan menampilkan detailnya.  
 7. Hapus Anggota: Menghapus anggota berdasarkan nama dari daftar anggota.  
 
-Keamanan:
+Keamanan: 
 Akses menu pegawai dilindungi oleh password untuk menjaga keamanan data perpustakaan.
