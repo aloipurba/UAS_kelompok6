@@ -31,8 +31,6 @@ typedef struct {
 Member members[MAX_MEMBERS];
 int member_count = 0;
 
-
-
 void saveToFile() {
     FILE *file = fopen("library_data.txt", "w");
     if (!file) {
