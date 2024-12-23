@@ -1,4 +1,4 @@
-void searchMember() {
+void searchMember() { 
 	char target_name[100];
 	printf ("Masukkan nama anggota yang ingin di cari: ");
 	getchar();
