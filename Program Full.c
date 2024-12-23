@@ -194,6 +194,12 @@ void registerMember() {
     printf("Anggota berhasil didaftarkan!\n");
 }
 
+
+
+
+
+
+
 int loginAsEmployee() {
     char input_password[100];
     int attempts = 0;
