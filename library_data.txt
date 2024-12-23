@@ -1,0 +1,10 @@
+1|Bahasa Pemrograman|Brian W. Kernighan dan Dennis M. Ritchie|1978|Pemrograman
+2|Kode Bersih|Robert C. Martin|2008|Pengembangan Perangkat Lunak
+3|Programmer Pragmatis|Andrew Hunt dan David Thomas|1999|Pengembangan Perangkat Lunak
+4|Pola Desain|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|1994|Arsitektur Perangkat Lunak
+5|Pengantar ke Algoritma|Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest|2009|Algoritma
+6|Head First Java|Kathy Sierra, Bert Bates|2003|Pemrograman
+7|Jaringan Komputer: Pendekatan Top-Down|James F. Kurose, Keith W. Ross|2017|Jaringan Komputer
+8|Pendekatan Modern|Stuart Russell, Peter Norvig|2010|Kecerdasan Buatan
+9|Kode Lengkap|Steve McConnell|2004|Pengembangan Perangkat Lunak
+10|Tiga Bagian Mudah|Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau|2018|Sistem Operasi
